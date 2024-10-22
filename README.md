@@ -5,10 +5,10 @@
 #### This project is about a Non-Linear support vector machine (SVM) using Radial Basis Function (RBF) it will classify non-linear classes which is an improvement of the conventional SVM by solving the dual problem and finding the optimal bias for the decision to be accurate  
 
 ### Features
-###   -RBF Karnel: Calculates the similarity between 2 points
-###   -Dual Optimization: Iterates to find the optimal Lagrange multipliers 
-###   -Bias: Calculates the Bias to be used for the Decision
-###   -Adjusting Gamma,Regulaization and learning Rate
+####   -RBF Karnel: Calculates the similarity between 2 points
+####   -Dual Optimization: Iterates to find the optimal Lagrange multipliers 
+####   -Bias: Calculates the Bias to be used for the Decision
+####   -Adjusting Gamma,Regulaization and learning Rate
 
 ### Example of Data Training:
 ```cpp
