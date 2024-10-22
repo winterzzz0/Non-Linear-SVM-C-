@@ -54,4 +54,4 @@ Predicte Accuracy : 1
 1
 -1
 
-#### as shown the first line is showing the alphas (Lagrange multipliers), second line is the optimal Bias, third line is the Accuracy, last couple lines are the prediction of unseen Data
+### as shown the first line is showing the alphas (Lagrange multipliers), second line is the optimal Bias, third line is the Accuracy, last couple lines are the prediction of unseen Data
