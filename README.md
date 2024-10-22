@@ -2,7 +2,7 @@
 ## Implementation of flexible Non-Linear SVM using RBF kernel in C++
 
 ### Description
-#### This project is about a Non-Linear support vector machine (SVM) using Radial Basis Function (RBF) it will classify non-linear classes which is an improvement of the conversional SVM by solving the dual problem and finding the optimal bias for the decision to be accurate  
+#### This project is about a Non-Linear support vector machine (SVM) using Radial Basis Function (RBF) it will classify non-linear classes which is an improvement of the conventional SVM by solving the dual problem and finding the optimal bias for the decision to be accurate  
 
 ### Features
 ###   -RBF Karnel: Calculates the similarity between 2 points
