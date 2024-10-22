@@ -10,10 +10,10 @@
 ###   -Bias: Calculates the Bias to be used for the Decision
 
 
-``cpp
+```cpp
 	vector<vector<double>> dataTraining = {
     {4.232, 1.342, 7.21, 1},
     {2.21, 1.21, 3.1, -1},
     {1.32, 5.21, 5.132, 1},
     // More dataTraining points...
-};``
+};```
